@@ -1,0 +1,745 @@
+﻿region,year,supplysector,tranSubsector,stub.technology,EV_Sale_Target(%)
+AH,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+AH,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+AH,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+AH,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+AH,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+AH,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+AH,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+AH,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+AH,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+AH,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+AH,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+AH,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+AH,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+AH,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+AH,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+AH,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+AH,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+AH,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+AH,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+AH,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+AH,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+AH,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+AH,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+AH,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+BJ,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+BJ,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+BJ,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+BJ,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+BJ,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+BJ,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+BJ,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+BJ,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+BJ,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+BJ,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+BJ,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+BJ,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+BJ,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+BJ,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+BJ,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+BJ,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+BJ,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+BJ,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+BJ,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+BJ,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+BJ,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+BJ,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+BJ,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+BJ,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+CQ,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+CQ,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+CQ,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+CQ,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+CQ,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+CQ,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+CQ,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+CQ,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+CQ,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+CQ,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+CQ,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+CQ,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+CQ,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+CQ,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+CQ,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+CQ,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+CQ,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+CQ,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+CQ,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+CQ,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+CQ,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+CQ,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+CQ,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+CQ,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+FJ,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+FJ,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+FJ,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+FJ,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+FJ,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+FJ,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+FJ,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+FJ,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+FJ,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+FJ,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+FJ,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+FJ,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+FJ,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+FJ,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+FJ,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+FJ,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+FJ,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+FJ,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+FJ,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+FJ,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+FJ,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+FJ,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+FJ,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+FJ,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+GD,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+GD,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+GD,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+GD,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+GD,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+GD,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+GD,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+GD,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+GD,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+GD,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+GD,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+GD,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+GD,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+GD,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+GD,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+GD,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+GD,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+GD,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+GD,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+GD,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+GD,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+GD,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+GD,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+GD,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+GS,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+GS,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+GS,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+GS,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+GS,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+GS,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+GS,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+GS,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+GS,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+GS,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+GS,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+GS,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+GS,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+GS,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+GS,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+GS,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+GS,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+GS,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+GS,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+GS,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+GS,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+GS,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+GS,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+GS,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+GX,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+GX,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+GX,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+GX,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+GX,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+GX,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+GX,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+GX,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+GX,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+GX,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+GX,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+GX,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+GX,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+GX,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+GX,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+GX,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+GX,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+GX,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+GX,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+GX,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+GX,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+GX,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+GX,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+GX,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+GZ,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+GZ,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+GZ,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+GZ,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+GZ,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+GZ,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+GZ,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+GZ,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+GZ,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+GZ,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+GZ,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+GZ,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+GZ,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+GZ,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+GZ,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+GZ,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+GZ,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+GZ,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+GZ,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+GZ,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+GZ,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+GZ,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+GZ,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+GZ,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+HA,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+HA,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+HA,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+HA,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+HA,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+HA,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+HA,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+HA,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+HA,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+HA,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+HA,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+HA,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+HA,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+HA,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+HA,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+HA,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+HA,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+HA,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+HA,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+HA,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+HA,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+HA,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+HA,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+HA,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+HB,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+HB,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+HB,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+HB,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+HB,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+HB,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+HB,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+HB,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+HB,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+HB,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+HB,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+HB,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+HB,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+HB,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+HB,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+HB,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+HB,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+HB,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+HB,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+HB,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+HB,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+HB,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+HB,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+HB,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+HE,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+HE,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+HE,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+HE,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+HE,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+HE,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+HE,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+HE,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+HE,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+HE,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+HE,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+HE,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+HE,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+HE,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+HE,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+HE,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+HE,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+HE,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+HE,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+HE,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+HE,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+HE,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+HE,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+HE,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+HI,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+HI,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+HI,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+HI,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+HI,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+HI,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+HI,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+HI,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+HI,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+HI,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+HI,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+HI,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+HI,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+HI,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+HI,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+HI,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+HI,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+HI,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+HI,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+HI,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+HI,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+HI,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+HI,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+HI,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+HL,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+HL,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+HL,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+HL,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+HL,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+HL,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+HL,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+HL,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+HL,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+HL,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+HL,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+HL,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+HL,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+HL,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+HL,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+HL,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+HL,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+HL,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+HL,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+HL,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+HL,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+HL,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+HL,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+HL,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+HN,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+HN,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+HN,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+HN,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+HN,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+HN,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+HN,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+HN,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+HN,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+HN,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+HN,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+HN,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+HN,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+HN,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+HN,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+HN,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+HN,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+HN,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+HN,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+HN,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+HN,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+HN,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+HN,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+HN,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+JL,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+JL,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+JL,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+JL,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+JL,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+JL,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+JL,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+JL,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+JL,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+JL,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+JL,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+JL,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+JL,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+JL,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+JL,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+JL,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+JL,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+JL,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+JL,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+JL,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+JL,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+JL,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+JL,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+JL,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+JS,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+JS,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+JS,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+JS,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+JS,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+JS,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+JS,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+JS,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+JS,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+JS,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+JS,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+JS,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+JS,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+JS,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+JS,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+JS,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+JS,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+JS,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+JS,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+JS,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+JS,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+JS,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+JS,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+JS,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+JX,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+JX,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+JX,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+JX,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+JX,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+JX,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+JX,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+JX,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+JX,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+JX,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+JX,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+JX,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+JX,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+JX,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+JX,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+JX,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+JX,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+JX,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+JX,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+JX,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+JX,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+JX,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+JX,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+JX,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+LN,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+LN,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+LN,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+LN,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+LN,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+LN,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+LN,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+LN,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+LN,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+LN,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+LN,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+LN,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+LN,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+LN,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+LN,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+LN,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+LN,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+LN,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+LN,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+LN,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+LN,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+LN,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+LN,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+LN,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+NM,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+NM,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+NM,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+NM,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+NM,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+NM,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+NM,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+NM,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+NM,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+NM,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+NM,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+NM,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+NM,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+NM,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+NM,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+NM,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+NM,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+NM,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+NM,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+NM,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+NM,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+NM,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+NM,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+NM,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+NX,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+NX,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+NX,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+NX,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+NX,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+NX,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+NX,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+NX,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+NX,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+NX,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+NX,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+NX,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+NX,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+NX,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+NX,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+NX,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+NX,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+NX,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+NX,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+NX,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+NX,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+NX,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+NX,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+NX,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+QH,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+QH,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+QH,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+QH,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+QH,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+QH,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+QH,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+QH,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+QH,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+QH,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+QH,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+QH,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+QH,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+QH,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+QH,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+QH,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+QH,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+QH,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+QH,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+QH,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+QH,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+QH,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+QH,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+QH,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+SC,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+SC,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+SC,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+SC,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+SC,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+SC,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+SC,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+SC,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+SC,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+SC,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+SC,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+SC,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+SC,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+SC,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+SC,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+SC,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+SC,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+SC,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+SC,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+SC,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+SC,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+SC,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+SC,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+SC,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+SD,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+SD,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+SD,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+SD,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+SD,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+SD,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+SD,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+SD,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+SD,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+SD,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+SD,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+SD,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+SD,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+SD,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+SD,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+SD,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+SD,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+SD,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+SD,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+SD,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+SD,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+SD,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+SD,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+SD,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+SH,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+SH,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+SH,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+SH,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+SH,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+SH,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+SH,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+SH,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+SH,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+SH,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+SH,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+SH,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+SH,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+SH,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+SH,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+SH,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+SH,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+SH,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+SH,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+SH,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+SH,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+SH,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+SH,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+SH,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+SN,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+SN,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+SN,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+SN,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+SN,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+SN,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+SN,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+SN,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+SN,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+SN,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+SN,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+SN,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+SN,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+SN,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+SN,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+SN,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+SN,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+SN,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+SN,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+SN,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+SN,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+SN,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+SN,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+SN,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+SX,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+SX,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+SX,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+SX,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+SX,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+SX,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+SX,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+SX,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+SX,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+SX,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+SX,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+SX,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+SX,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+SX,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+SX,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+SX,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+SX,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+SX,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+SX,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+SX,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+SX,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+SX,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+SX,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+SX,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+TJ,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+TJ,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+TJ,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+TJ,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+TJ,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+TJ,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+TJ,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+TJ,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+TJ,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+TJ,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+TJ,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+TJ,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+TJ,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+TJ,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+TJ,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+TJ,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+TJ,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+TJ,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+TJ,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+TJ,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+TJ,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+TJ,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+TJ,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+TJ,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+XJ,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+XJ,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+XJ,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+XJ,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+XJ,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+XJ,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+XJ,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+XJ,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+XJ,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+XJ,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+XJ,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+XJ,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+XJ,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+XJ,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+XJ,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+XJ,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+XJ,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+XJ,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+XJ,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+XJ,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+XJ,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+XJ,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+XJ,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+XJ,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+XZ,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+XZ,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+XZ,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+XZ,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+XZ,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+XZ,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+XZ,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+XZ,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+XZ,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+XZ,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+XZ,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+XZ,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+XZ,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+XZ,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+XZ,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+XZ,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+XZ,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+XZ,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+XZ,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+XZ,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+XZ,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+XZ,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+XZ,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+XZ,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+YN,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+YN,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+YN,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+YN,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+YN,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+YN,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+YN,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+YN,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+YN,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+YN,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+YN,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+YN,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+YN,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+YN,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+YN,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+YN,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+YN,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+YN,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+YN,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+YN,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+YN,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+YN,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+YN,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+YN,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
+ZJ,2025,trn_pass_road_LDV_4W,Car,BEV,0.3
+ZJ,2025,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.3
+ZJ,2025,trn_pass_road_LDV_4W,Mini Car,BEV,0.3
+ZJ,2030,trn_pass_road_LDV_4W,Car,BEV,0.4
+ZJ,2030,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.4
+ZJ,2030,trn_pass_road_LDV_4W,Mini Car,BEV,0.4
+ZJ,2035,trn_pass_road_LDV_4W,Car,BEV,0.5
+ZJ,2035,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.5
+ZJ,2035,trn_pass_road_LDV_4W,Mini Car,BEV,0.5
+ZJ,2040,trn_pass_road_LDV_4W,Car,BEV,0.55
+ZJ,2040,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.55
+ZJ,2040,trn_pass_road_LDV_4W,Mini Car,BEV,0.55
+ZJ,2045,trn_pass_road_LDV_4W,Car,BEV,0.6
+ZJ,2045,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.6
+ZJ,2045,trn_pass_road_LDV_4W,Mini Car,BEV,0.6
+ZJ,2050,trn_pass_road_LDV_4W,Car,BEV,0.65
+ZJ,2050,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.65
+ZJ,2050,trn_pass_road_LDV_4W,Mini Car,BEV,0.65
+ZJ,2055,trn_pass_road_LDV_4W,Car,BEV,0.675
+ZJ,2055,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.675
+ZJ,2055,trn_pass_road_LDV_4W,Mini Car,BEV,0.675
+ZJ,2060,trn_pass_road_LDV_4W,Car,BEV,0.7
+ZJ,2060,trn_pass_road_LDV_4W,Large Car and Truck,BEV,0.7
+ZJ,2060,trn_pass_road_LDV_4W,Mini Car,BEV,0.7
